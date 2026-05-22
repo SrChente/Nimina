@@ -85,7 +85,7 @@ CREATE TABLE deducciones(
 CREATE TABLE nomina(
     id_nomina       NUMBER PRIMARY KEY,
     fecha_emision   DATE,
-    monto_nomina    NUMBER(10,2),
+    sueldo_neto     NUMBER(10,2),
     folio_fiscal    VARCHAR2(50),
     fecha_imprecios DATE,
 
