@@ -1,3 +1,4 @@
+--Consultado tabla de departementos
 SELECT * FROM Departamento;
 
 --Cnsultas complejas
